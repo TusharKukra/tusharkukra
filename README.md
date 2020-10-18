@@ -6,10 +6,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=mavericktk.mavericktk&style=flat-square&color=0088cc)
 
-I'm a final year student pursuing Bachelors's in Computer Science ?? from UIET, MDU ??. I'm a passionate learner who's always willing to learn and work across technologies and domains ??. I love to explore new technologies and leverage them to solve real-life problems ?. Apart from that I also love to guide and mentor newbies ?. I'm currently into Competitive Programming & Mobile Developemnt (Flutter) ???.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET, MDU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Competitive Programming & Mobile Developemnt (Flutter) 🕸️.
 
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/mavericktk/mavericktk/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/MaverickTK/mavericktk/blob/main/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
