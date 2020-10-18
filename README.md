@@ -12,9 +12,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 
 ### Talking about Personal Stuffs:
 
-- ?? &nbsp; I’m currently working with C++, Flutter, MySQL, Tableau etc.
-- ??????? &nbsp; Most of my projects are available on [Github](https://github.com/mavericktk).
-- ?? &nbsp; Ask me about anything [here](https://github.com/mavericktk/mavericktk/issues/)! I am happy to help.
+- 🛠 &nbsp; I’m currently working with C++, Flutter, MySQL, Tableau etc.
+- 🚀🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mavericktk).
+- 💬 &nbsp; Ask me about anything [here](https://github.com/mavericktk/mavericktk/issues/)! I am happy to help.
 
 ### Languages and Tools:
 
