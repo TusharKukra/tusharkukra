@@ -32,4 +32,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 <code><img height="250" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericktk&theme=dracula"></code>
 
 
-
+<a href="https://dev.to/mavericktk">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Tцѕндя Kцкяд's DEV Profile" height="30" width="30">
+</a>
