@@ -9,7 +9,7 @@
 
 <br>
 ### Glad to see you here!
-![](https://komarev.com/ghpvc/?username=mavericktk&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=MaverickTK=PROFILE+VIEWS)
 
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET, MDU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Competitive Programming & Mobile Developemnt (Flutter) 🕸️.
