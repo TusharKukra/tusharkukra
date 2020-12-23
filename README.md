@@ -10,13 +10,13 @@
 ### Glad to see you here:  ![Views](https://komarev.com/ghpvc/?username=mavericktk&color=blue)
 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET, MDU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Competitive Programming & Mobile Developemnt (Flutter) 🕸️.
+I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET, MDU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Competitive Programming & Full Stack Developemnt 🕸️.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/MaverickTK/mavericktk/blob/main/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C++, Flutter, MySQL, Tableau etc.
+- 🛠 &nbsp; I’m currently working with C++, MySQL, Tableau etc.
 - 🚀🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mavericktk).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/mavericktk/mavericktk/issues/)! I am happy to help.
 
