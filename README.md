@@ -1,5 +1,6 @@
 <p align="center"> <img src="https://github.com/MaverickTK/mavericktk/blob/main/gifs/hello.gif" alt="hello" /> </p>
-## Hello there 👋, I'm [Tushar Kukra!](https://github.com/mavericktk/)
+
+## 👋, I'm [Tushar Kukra!](https://github.com/mavericktk/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mavericktk)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://mavericktk.github.io/)
