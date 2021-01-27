@@ -47,6 +47,5 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 <br>
 <hr>
 <p align="center"> 
-  Count<br>
-  <img src="https://profile-counter.glitch.me/mavericktk/count.svg" />
+  Count <img src="https://profile-counter.glitch.me/mavericktk/count.svg" />
 </p>
