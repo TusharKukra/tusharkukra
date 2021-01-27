@@ -44,6 +44,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 <code><img height="250" width="400" align="left" src="https://github-readme-stats.vercel.app/api?username=mavericktk&show_icons=true&theme=dracula"></code>
 <code><img height="250" width="400" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mavericktk&theme=dracula"></code>
 <br>
+<br>
 <hr>
 <p align="center"> 
   Count<br>
