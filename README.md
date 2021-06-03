@@ -44,9 +44,4 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 
 <br>
 <hr>
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-<hr>
