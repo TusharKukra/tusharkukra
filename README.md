@@ -20,7 +20,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 
 - 🛠 &nbsp; I’m currently working with C++, JavaScript, MySQL etc.
 - 🚀🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/TusharKukra).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/TusharKukra/TusharKukra/issues/)! I am happy to help.
+- 💬 &nbsp; Ask me about anything [here](https://github.com/TusharKukra/TusharKukra/issues/). I am happy to help.
 
 ### Languages and Tools:
 
