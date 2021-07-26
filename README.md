@@ -39,7 +39,6 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from UIET
 
 
 <br>
-<br>
 
 <br>
 <hr>
