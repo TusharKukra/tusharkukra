@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/TusharKukra/TusharKukra/blob/main/gifs/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://github.com/TusharKukra/TusharKukra/blob/main/gifs/hello.gif" alt="hello"/> </p>
 
 ## 👋 I'm [Tushar Kukra!](https://github.com/TusharKukra/)
 
