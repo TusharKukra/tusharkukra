@@ -12,7 +12,7 @@
 ### Glad to see you here:  ![Views](https://komarev.com/ghpvc/?username=mavericktk&color=blue)
 
 
-I'm a Software Developer, did my Bachelors's in Computer Science 🎓 from UIET, MDU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Structures & Algorithms as well as in Full Stack Developemnt 🕸️.
+I'm a Software Developer 👨‍💻, did my Bachelors's in Computer Science 🎓 from UIET, MDU 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Data Structures & Algorithms as well as in Full Stack Developemnt 🕸️.
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/TusharKukra/TusharKukra/blob/main/gifs/coder.gif" />
 
