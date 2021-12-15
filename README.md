@@ -18,7 +18,7 @@ I'm a Software Developer 👨‍💻, did my Bachelors's in Computer Science �
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C++, JavaScript, MySQL etc.
+- 🛠 &nbsp; I’m currently working with JAVA, Spring Boot, JavaScript, MySQL etc.
 - 🚀🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/TusharKukra).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/TusharKukra/TusharKukra/issues/). I am happy to help.
 
